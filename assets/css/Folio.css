@@ -156,6 +156,15 @@ ul li a .Contract {
     color: red;
 }
 
+   .titre{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.My_service{
+    margin-top: 17px;
+}
+
 .grandtitre h1 {
     padding-top: 125px;
     position: relative;
@@ -470,7 +479,7 @@ margin-top: 30%;
     margin-top: -94px;
     justify-content: center;
     width: 100%;
-    margin-left: 4%;
+    margin-left: 3%;
 
 }
 
@@ -478,10 +487,10 @@ margin-top: 30%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 10px;
+    margin: 13px;
     width: 80%;
     box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff;
-    width: 224px;
+    width: 211px;
     height: 247px;
 }
 
