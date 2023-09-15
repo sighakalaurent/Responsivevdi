@@ -871,8 +871,8 @@ p span {
     }
 
     ul li a {
-        margin-left: -191px;
-        font-size: 9px;
+        margin-left: -164px;
+        font-size: 10px;
         line-height: 0;
     }
 
@@ -914,18 +914,26 @@ p span {
     .section2 {
         flex-direction: column;
         margin: auto;
-        margin-left: 36px;
+    }
+
+    .Design{
+        margin: auto;
+        width: 287px;
+        margin-top: 20px;
+    }
+
+    .Design1{
+        margin: auto;
+        width: 287px;
     }
 
     .section2 .titre {
         text-align: center;
         margin-bottom: 34px;
-        margin-left: -47px;
     }
 
     .section2 .My_service {
         font-size: 19px;
-        margin-left: -87px;
         margin-top: 27px;
     }
 
@@ -1136,6 +1144,7 @@ p span {
         margin-top: 3%;
         margin: auto;
         padding-top: 30px;
+        font-size: smaller;
     }
 
     .section10 img {
